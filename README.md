@@ -1,2 +1,0 @@
-# -private-album
- private-album
